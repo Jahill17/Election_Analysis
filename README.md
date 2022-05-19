@@ -10,7 +10,7 @@ A Colorado Board of Electiosn employee gave me the following tasks to complete t
 5. Determine the winner of the election based on popular vote (most votes received).
 
 ## Resources
-1. Data Source: election_results.csv
+1. Data Source: [Election Results CSV File](Resources/election_results.csv)
 2. Software: Python 3.10.4 64-bit, Visual Studio Code
 
 ## Summary
@@ -26,3 +26,5 @@ The analysis of the election shows the following information:
     - Raymon Anthony Doane: received 3.1% of the vote for a total of 11,606 votes received
 - Winner of election:
     - Diana DeGette won the election by receiving 73.8% of the votes for a total of 272,892 votes received
+
+The text file summarizing the analysis can be found in the github directory. [Election Analysis Text File](Analysis/election_analysis.txt)
