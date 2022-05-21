@@ -11,7 +11,7 @@ A Colorado Board of Electiosn employee gave me the following tasks to complete t
 
 ## Resources
 1. Data Source: [Election Results CSV File](Resources/election_results.csv)
-2. Software: Python 3.10.4 64-bit, Visual Studio Code
+2. Software: Python 3.10.4 64-bit, Visual Studio Code [PyPoll Challenge Python Script](PyPoll_Challenge.py)
 
 ## Election-Audit Results:
 The analysis of the election shows the following information:
